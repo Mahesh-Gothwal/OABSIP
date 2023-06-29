@@ -1,0 +1,36 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+
+.bg-grey-text-black{
+    background-color: #9f9f9f;
+    color: black;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.width-zero{
+    width: 162px;
+}
