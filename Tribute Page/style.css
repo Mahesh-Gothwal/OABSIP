@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:ital,wght@0,600;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+
+.upper{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 70px 0px 50px 0px;
+}
+
+.date{
+    margin-top: 15px;
+    font-family: 'Caveat', cursive;
+}
+
+.container{
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image{
+    height: 500px;
+}
+
+.bio{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.desc{
+    padding: 50px;
+    margin: 0px 288px;
+    font-family: 'Kalam', cursive;
+}
+
+.line{
+    width: 900px;
+    margin: 15px 310px;
+}
+
+.foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 15px;
+    font-family: 'Caveat', cursive;
+}
